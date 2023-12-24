@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "c422b4467f326ccc",
+    "type": "split",
+    "children": [
+      {
+        "id": "f23647d59617114d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96864eb28ad3a52b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java Preparations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd09b8e162502a98",
+    "type": "split",
+    "children": [
+      {
+        "id": "24a36e82d14b6042",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27014e42574f5846",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bbd0e29ca6375a3c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "963e6cd8b6eb1efc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7308167829617aae",
+    "type": "split",
+    "children": [
+      {
+        "id": "f652c9f972f563bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "341ebe50878ff3da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java Preparations.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "10f1fec517fd2450",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java Preparations.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c73e413cd36fc7a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "575b3c017d8b405c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java Preparations.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "96864eb28ad3a52b",
+  "lastOpenFiles": [
+    "Core Java.md",
+    "Multithreading.md",
+    "Java Preparations.md",
+    "What is synchronization and why is it needed?.md",
+    "Introduction to the Fork and Join framework..md",
+    "Monitoring and profiling multithreaded applications..md",
+    "Best practices for multithreading performance..md",
+    "`java.util.concurrent` enhancements..md",
+    "`CompletableFuture` for asynchronous programming..md",
+    "Happens-before relationship..md",
+    "Introduction to the Fork/Join framework..md",
+    "Basics of Java Memory Model..md",
+    "Managing thread-local variables..md",
+    "Understanding `ThreadLocal` and its use cases..md",
+    "Managing thread groups..md",
+    "What are thread groups?.md",
+    "RecursiveTask and RecursiveAction..md",
+    "Introduction to the Fork",
+    "Configuring and using thread pools..md",
+    "Benefits of using thread pools..md",
+    "Use cases for concurrent collections..md",
+    "Thread-safe collections (`ConcurrentHashMap`, `CopyOnWriteArrayList`, etc.)..md",
+    "The `Future` interface and `FutureTask`..md",
+    "The `Callable` interface..md",
+    "Submitting tasks for execution..md",
+    "`ExecutorService` and `ThreadPoolExecutor`..md",
+    "Introduction to the Executor framework..md"
+  ]
+}
